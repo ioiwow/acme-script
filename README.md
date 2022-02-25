@@ -1,3 +1,3 @@
 ```
-wget -N https://cdn.jsdelivr.net/gh/kkkyg/acme-script/acme.sh && ./acme.sh
+wget -N https://cdn.jsdelivr.net/gh/kkkyg/acme-script@main/acme.sh && ./acme.sh
 ```
